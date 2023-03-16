@@ -11,7 +11,7 @@ struct PlanTrip: View {
     var body: some View {
         
         VStack{
-            Text("في مكان معين في بالك؟")
+            Text("في مكان معين في بالك؟ ")
                 .font(.title2)
                 .fontWeight(.bold)
                 .multilineTextAlignment(.center)
